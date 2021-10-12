@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragib Shahriar</h1>
-<h3 align="center">A passionate Laravel Developer</h3>
+<h3 align="center"I am a highly competent IT professional with  website designing  and Development . I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragib920&label=Profile%20views&color=0e75b6&style=flat" alt="ragib920" /> </p>
 
