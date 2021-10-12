@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragib920&show_icons=true&locale=en" alt="ragib920" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ragib920&" alt="ragib920" /></p>
+<p><img center="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ragib920&" alt="ragib920" /></p>
 
 
 <p  align="center">📫 How to reach me **ragibshahriar.me@gmail.com**</p> 
