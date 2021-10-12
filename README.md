@@ -9,25 +9,20 @@
 
 
 
+<p  align="center">🔭 I’m currently working on [E-Commerce Project](https://github.com/Ragib920/Laravel-8-Ecommerce_site/tree/main/Laravel-8-Ecommerce)</p> 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragib920" alt="ragib920" /></a> </p>
+<p  align="center">🌱 I’m currently learning **Vue.js**</p>
 
-
-
-- 🔭 I’m currently working on [E-Commerce Project](https://github.com/Ragib920/Laravel-8-Ecommerce_site/tree/main/Laravel-8-Ecommerce)
-
-- 🌱 I’m currently learning **Vue.js**
-
-- 📫 How to reach me **ragibshahriar.me@gmail.com**
+<p  align="center">📫 How to reach me **ragibshahriar.me@gmail.com**</p> 
 
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragib920&show_icons=true&locale=en&layout=compact" alt="ragib920" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragib920&show_icons=true&locale=en&layout=compact" alt="ragib920" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragib920&show_icons=true&locale=en" alt="ragib920" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragib920&" alt="ragib920" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ragib920&" alt="ragib920" /></p>
 
 
 
