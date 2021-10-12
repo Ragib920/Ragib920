@@ -13,7 +13,11 @@
 
 <p  align="center">🌱 I’m currently learning **Vue.js**</p>
 
-
+<p align="center">Contact with me</p>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ragib920/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ragib920/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rs.shuvo.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rs.shuvo.92" height="30" width="40" /></a>
+</p>
 
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ragib920&show_icons=true&locale=en" alt="ragib920" />
@@ -22,8 +26,4 @@
 
 
 
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ragib920/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ragib920/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rs.shuvo.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rs.shuvo.92" height="30" width="40" /></a>
-</p>
 
