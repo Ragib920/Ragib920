@@ -20,8 +20,8 @@
 </p>
 
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ragib920&show_icons=true&locale=en" alt="ragib920" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragib920&show_icons=true&locale=en&layout=compact" alt="ragib920" />
+<p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ragib920&show_icons=true&locale=en" alt="ragib920" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragib920&show_icons=true&locale=en&layout=compact" alt="ragib920" />
 </p>
 
 
